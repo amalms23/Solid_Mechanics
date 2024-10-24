@@ -2,7 +2,7 @@
 This repository will contain codes related to solid mechanics for ease of access.
 
 
-## 1. Filename: `strain_tensor_rotation.m`
+## 1. Filename: `Strain_Transformation.m`
 
 ### Strain Tensor Rotation and Transformation
 
